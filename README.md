@@ -22,7 +22,7 @@ Illustrates category-wise sales contribution.
 ## Dataset Overview
 The dataset comprises several sheets:
 
-![dasboard](
+![dasboard](https://github.com/Rohitbachchhe17/Sales_Analysis/blob/main/IMG_20240315_141432.jpg)
 
 ### Master Data Sheet: 
 Contains product catalog with unique product IDs, product names, categories, unit of measure (UOM), buying price, and selling price.
