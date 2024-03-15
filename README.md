@@ -1,6 +1,6 @@
 ## B2C Sales Dashboard
 
-
+![dasboard](https://github.com/Rohitbachchhe17/Sales_Analysis/blob/main/IMG_20240315_141307.jpg)
 This interactive sales dashboard is designed in Excel for B2C type businesses such as Dmart, Walmart, Amazon, shops, and supermarkets. It leverages Slicers, Pivot Tables, and Pivot Charts for insightful data analysis.
 
 
@@ -21,6 +21,8 @@ Highlights the top-selling product and product category.
 Illustrates category-wise sales contribution.
 ## Dataset Overview
 The dataset comprises several sheets:
+
+![dasboard](
 
 ### Master Data Sheet: 
 Contains product catalog with unique product IDs, product names, categories, unit of measure (UOM), buying price, and selling price.
